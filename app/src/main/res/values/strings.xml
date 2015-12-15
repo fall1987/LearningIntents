@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LearningIntents</string>
+    <string name="start_top">Willkommen bei der erstem App mit der Intents und die Datenweitergabe getestet wird.</string>
+    <string name="button_change">Sende Text</string>
+    <string name="default_text_editable">Bitte gebe hier einen zufällig gewählten Text ein!</string>
+    <string name="default_text_result">Hier erscheint dein Eingegebener Text!</string>
+    <string name="button_change_output">Text Anpassen</string>
+    <string name="radio_red">RED</string>
+    <string name="radio_blue">BLUE</string>
+    <string name="radio_grey">GREY</string>
+    <string name="radio_yellow">YELLOW</string>
+    <string name="radio_font_bold">BOLD</string>
+    <string name="radio_font_italic">Italic</string>
+    <string name="radio_font_underligned">Underlined</string>
+    <string name="radio_font_big">Big Size</string>
+</resources>
